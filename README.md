@@ -121,6 +121,7 @@ Note:
 
 ## Reasoning
 ![Inference](https://raw.githubusercontent.com/automenta/narchy/skynet5/docs/derivation_pipeline2.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fautomenta%2Fnarchy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fautomenta%2Fnarchy?ref=badge_shield)
 
 As a reasoning system, the [architecture of NARS](http://www.cis.temple.edu/~pwang/Implementation/NARS/architecture.pdf) consists of a **memory**, an **inference engine**, and a **control system**.
 
@@ -320,3 +321,6 @@ than what both types of Images were designed to generate. Please create an Issue
  - Discussion Group https://groups.google.com/forum/?fromgroups#!forum/open-nars
 
 [![](https://images.microbadger.com/badges/image/automenta/narchy.svg)](http://microbadger.com/images/automenta/narchy "image badge from microbadger.com")
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fautomenta%2Fnarchy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fautomenta%2Fnarchy?ref=badge_large)
